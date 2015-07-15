@@ -27,6 +27,8 @@
 - 3rd step
 
 	Enjoy your niceripple
+
+> [demo](./example/index.html)
 	
 
 
